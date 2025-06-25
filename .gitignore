@@ -1,0 +1,12 @@
+/.metadata/
+.jxbrowser.userdata/
+RemoteSystemsTempFiles/
+dvt/
+LearnFreeRTOS/Debug/
+
+*.log
+*.dep
+*.map
+*.bin
+*.hex
+*.obj
